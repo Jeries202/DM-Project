@@ -1,8 +1,7 @@
-# DM-Project
+## Dataset
 
+The Online Retail dataset was not uploaded directly to this repository due to its large file size. Instead, the original dataset is provided through the following Kaggle link:
 
-The Online Retail dataset is available on Kaggle:
+[Online Retail Dataset – Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
-https://www.kaggle.com/datasets/carrie1/ecommerce-data
-
-Download the dataset and place `data.csv` in the `data` folder before running the notebook. 
+To run the notebook, download the dataset and place the `data.csv` file in the `data` folder.
